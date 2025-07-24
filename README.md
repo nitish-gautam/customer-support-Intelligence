@@ -239,7 +239,7 @@ TOTAL                              512     97    81%
 
 ### FastAPI Application Structure
 
-The system implements a sophisticated **Domain-Driven Design (DDD)** approach with clean architecture principles, ensuring scalability, maintainability, and testability. The architecture separates concerns into distinct layers with well-defined interfaces and dependencies.
+The system implements a **traditional layered architecture** with service layer patterns, ensuring scalability, maintainability, and testability. The architecture separates concerns into distinct layers with clear boundaries between presentation, business logic, and data access.
 
 #### Application Structure
 ```
